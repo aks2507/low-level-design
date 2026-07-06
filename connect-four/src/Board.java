@@ -38,6 +38,7 @@ public class Board {
         for(int i = ROWS - 1; i >= 0; i--) {
             if (grid[i][column] == null) {
                 grid[i][column] = discColor;
+                break;
             }
         }
 
@@ -77,7 +78,7 @@ public class Board {
         }
 
         for (int[] direction: DIRECTIONS) {
-            int count = 0;
+            int count = 1;
             count += checkInDirection(row, column, direction[0], direction[1], color);
             count += checkInDirection(row, column, -direction[0], -direction[1], color);
 

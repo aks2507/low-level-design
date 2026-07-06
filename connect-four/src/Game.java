@@ -8,7 +8,7 @@ public class Game {
     Player currentPlayer;
     GameState gameState;
 
-    public static final int INVALID_PLACEMENT = -1;
+    private static final int INVALID_PLACEMENT = -1;
 
     // Constructor
     public Game(Player player1, Player player2) {
