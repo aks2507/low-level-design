@@ -25,6 +25,6 @@ public class AccessToken {
     }
 
     public boolean isExpired() {
-        return !Instant.now().isBefore(expiry);
+        return Instant.now().isAfter(expiry);
     }
 }

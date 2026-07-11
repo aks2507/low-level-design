@@ -45,8 +45,6 @@ public class Locker {
             throw new RuntimeException("Access token expired");
         }
 
-        Compartment compartment = accessToken.getCompartment();
-        compartment.markFree();
         clearDeposit(accessToken);
     }
 
