@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/amazon-locker/amazon-locker.iml" filepath="$PROJECT_DIR$/amazon-locker/amazon-locker.iml" />
       <module fileurl="file://$PROJECT_DIR$/low-level-design.iml" filepath="$PROJECT_DIR$/low-level-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lru-cache/lru-cache.iml" filepath="$PROJECT_DIR$/lru-cache/lru-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/movie-booking-system/movie-booking-system.iml" filepath="$PROJECT_DIR$/movie-booking-system/movie-booking-system.iml" />
     </modules>
   </component>
