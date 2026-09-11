@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/amazon-locker/amazon-locker.iml" filepath="$PROJECT_DIR$/amazon-locker/amazon-locker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coffee-vending-machine/coffee-vending-machine.iml" filepath="$PROJECT_DIR$/coffee-vending-machine/coffee-vending-machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-atm/design-atm.iml" filepath="$PROJECT_DIR$/design-atm/design-atm.iml" />
       <module fileurl="file://$PROJECT_DIR$/low-level-design.iml" filepath="$PROJECT_DIR$/low-level-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/lru-cache/lru-cache.iml" filepath="$PROJECT_DIR$/lru-cache/lru-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/managing-states/managing-states.iml" filepath="$PROJECT_DIR$/managing-states/managing-states.iml" />
       <module fileurl="file://$PROJECT_DIR$/movie-booking-system/movie-booking-system.iml" filepath="$PROJECT_DIR$/movie-booking-system/movie-booking-system.iml" />
     </modules>
   </component>
